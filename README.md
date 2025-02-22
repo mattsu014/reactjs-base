@@ -1,4 +1,6 @@
-# My ReactJs Base :)
+![Reactjs wallpaper](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqumq779q4kfy9yw495c0.jpg)
+
+# My ReactJS Base :)
 
 Hi, this is my ReactJS base. Normally, I have to build this from the ground up, but it's really tiring. Repeating everything every time is not cool. So, I created this ReactJS base for myself, and I want to share it with you 🫠.
 
@@ -26,7 +28,7 @@ npm install styled-components
 
 Finally, to start the React application, use the following command:
 ```
-npm run dev
+npm run dev 
 ```
 
 ## 📂 My React Organization
