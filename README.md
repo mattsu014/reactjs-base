@@ -1,4 +1,4 @@
-# My React Base :)
+# My ReactJs Base :)
 
 Hi, this is my ReactJS base. Normally, I have to build this from the ground up, but it's really tiring. Repeating everything every time is not cool. So, I created this ReactJS base for myself, and I want to share it with you 🫠.
 
@@ -19,9 +19,14 @@ Now, you need to install the `node_modules` using this command:
 npm install
 ```
 
-And finally, install `styled-components`:
+After that, install `styled-components`:
 ```
 npm install styled-components
+```
+
+Finally, to start the React application, use the following command:
+```
+npm run dev
 ```
 
 ## 📂 My React Organization
